@@ -1,0 +1,23 @@
+{
+  "name": "ikenna-pig-latin",
+  "version": "1.0.0",
+  "description": "Translates English to pig latin",
+  "main": "pigLatin.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikenna98/pigLatinTranslator.git"
+  },
+  "author": "Ikenna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikenna98/pigLatinTranslator/issues"
+  },
+  "homepage": "https://github.com/ikenna98/pigLatinTranslator#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
